@@ -32,8 +32,3 @@ google_analytics: # Add your GA tracking ID here if needed
 
 # Show edit links
 show_edit_on_github: false
-
-# Custom CSS
-sass:
-  sass_dir: _sass
-  style: compressed 
