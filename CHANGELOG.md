@@ -1,3 +1,9 @@
+---
+layout: default
+title: Changelog
+description: Version history and updates for TokeiLog
+---
+
 # Changelog
 
 All notable changes to TokeiLog will be documented in this file.

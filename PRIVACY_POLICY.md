@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+description: How TokeiLog protects your privacy
+---
+
 # Privacy Policy for TokeiLog
 
 **Effective Date**: December 2024

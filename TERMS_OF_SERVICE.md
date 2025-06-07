@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Service
+description: Terms and conditions for using TokeiLog
+---
+
 # Terms of Service for TokeiLog
 
 **Effective Date**: December 2024

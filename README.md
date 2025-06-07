@@ -1,3 +1,9 @@
+---
+layout: default
+title: TokeiLog - Legal & Support
+description: Official documentation and legal information for TokeiLog time tracking app
+---
+
 # 🕝 TokeiLog - Legal & Support
 
 Welcome to the official documentation and legal information for **TokeiLog**, a simple and elegant time tracking app for iOS.
@@ -7,14 +13,14 @@ Welcome to the official documentation and legal information for **TokeiLog**, a 
 📱 **[Download on the App Store](#)** *(Coming Soon)*
 
 ### Legal Documents
-- 🔒 **[Privacy Policy](PRIVACY_POLICY.md)** - How we protect your privacy
-- 📜 **[Terms of Service](TERMS_OF_SERVICE.md)** - Terms and conditions  
-- ⚖️ **[License](LICENSE.md)** - Software license and usage rights
+- 🔒 **[Privacy Policy](PRIVACY_POLICY)** - How we protect your privacy
+- 📜 **[Terms of Service](TERMS_OF_SERVICE)** - Terms and conditions  
+- ⚖️ **[License](LICENSE)** - Software license and usage rights
 
 ### App Information
 - 📖 **[User Guide](#user-guide)** - How to use TokeiLog
-- 📅 **[Changelog](CHANGELOG.md)** - Version history and updates
-- 🏪 **[App Store Description](APP_STORE_DESCRIPTION.md)** - Complete feature list
+- 📅 **[Changelog](CHANGELOG)** - Version history and updates
+- 🏪 **[App Store Description](APP_STORE_DESCRIPTION)** - Complete feature list
 
 ---
 

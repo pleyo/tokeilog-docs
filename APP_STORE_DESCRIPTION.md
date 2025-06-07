@@ -1,3 +1,9 @@
+---
+layout: default
+title: App Store Description
+description: Complete app description and features for TokeiLog
+---
+
 # TokeiLog - App Store Description
 
 ## App Name
