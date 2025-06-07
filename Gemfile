@@ -5,7 +5,6 @@ gem "github-pages", group: :jekyll_plugins
 
 # Plugins
 group :jekyll_plugins do
-  gem "jekyll-remote-theme"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
 end
