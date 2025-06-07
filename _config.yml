@@ -2,7 +2,7 @@ title: "TokeiLog - Legal & Support"
 description: "Official documentation and legal information for TokeiLog time tracking app"
 author: "Yohann Pollonghini, Developer"
 
-# Use remote theme for GitHub Pages
+# Theme configuration for GitHub Pages
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
