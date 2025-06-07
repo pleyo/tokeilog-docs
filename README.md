@@ -1,9 +1,3 @@
----
-layout: default
-title: TokeiLog - Legal & Support
-description: Official documentation and legal information for TokeiLog time tracking app
----
-
 # 🕝 TokeiLog - Legal & Support
 
 Welcome to the official documentation and legal information for **TokeiLog**, a simple and elegant time tracking app for iOS.
